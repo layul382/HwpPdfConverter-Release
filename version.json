@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "download_url": "",
+  "download_url": "https://github.com/layul382/HwpPdfConverter-Release/releases/latest/download/HwpPdfConverter_Setup.exe",
   "mandatory": false,
   "notes": "최초 배포 버전입니다.",
-  "sha256": ""
+  "sha256": "3021f934735238c5378d790152ca0302f332f46e06e178cc649fb8294989d110"
 }
